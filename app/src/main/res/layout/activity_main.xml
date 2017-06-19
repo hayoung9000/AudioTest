@@ -8,6 +8,7 @@
     tools:context="com.example.lg.audiotest.MainActivity">
 
     <Switch
+        android:id="@+id/switch_music"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="배경음악 재생 "
